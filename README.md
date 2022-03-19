@@ -23,7 +23,7 @@
 
 <!-- - 📄 Know about my experiences [diveshresume.com](diveshresume.com) -->
 
-- ⚡ Fun fact **i am not funny**
+<!-- - ⚡ Fun fact **i am not funny** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
