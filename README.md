@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divesh Chakrayat</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diveshdc&theme=onedark" alt="diveshdc" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=diveshdc&theme=onedark)](https://github.com/diveshdc/github-profile-trophy)
 
 <!-- <p align="left"> <a href="https://github.com/diveshdc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diveshdc" alt="diveshdc" /></a> </p> -->
 
