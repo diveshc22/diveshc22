@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with [xyz](xy.com)
+<!-- - 🤝 I’m looking for help with [xyz](xy.com) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/diveshdc](https://github.com/diveshdc)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/diveshdc](https://github.com/diveshdc) -->
 
-- 📝 I regularly write articles on [diveshc22.blogspot.com](diveshc22.blogspot.com)
+<!-- - 📝 I regularly write articles on [diveshc22.blogspot.com](diveshc22.blogspot.com) -->
 
 - 💬 Ask me about **Anular2, Laravel, vue, php**
 
 - 📫 How to reach me **diveshc22@gmail.com**
 
-- 📄 Know about my experiences [diveshresume.com](diveshresume.com)
+<!-- - 📄 Know about my experiences [diveshresume.com](diveshresume.com) -->
 
 - ⚡ Fun fact **i am not funny**
 
