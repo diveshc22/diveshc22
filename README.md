@@ -2,7 +2,9 @@
 
 Welcome to my GitHub repository! I'm Divesh Chakrayat, and this is my portfolio showcasing my projects and contributions.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
 <!-- Add more badges as needed -->
 
 ## About Me
