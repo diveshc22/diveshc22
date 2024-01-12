@@ -13,13 +13,13 @@ I'm a passionate full-stack web developer with a focus on both front-end and bac
 
 ## Projects
 
-### Project 1: [Portfolio Website](link-to-project-1)
-- My personal portfolio website built with HTML, CSS, and JavaScript.
-- ![Portfolio Website](path-to-your-project1-image.png)
+### Project 1: [Social Networking Plateform](https://theairapp.com)
+- The AIR App is building LinkedIn for Sports. A multisided platform that combines the concepts of social networking with a dating app for athletic opportunities, exposure and recruiting.
+- ![Social Networking Plateform](path-to-your-project1-image.png)
 
-### Project 2: [E-commerce Platform](link-to-project-2)
-- A full-stack e-commerce platform developed using MERN stack (MongoDB, Express.js, React.js, Node.js).
-- ![E-commerce Platform](path-to-your-project2-image.png)
+### Project 2: [Vehicle Parking Platform](https://vrrparking.com/)
+- vrrparking used in any way you implement your visitor parking scheme, allowing residents to register visitors or visitors to register themselves.
+- ![Vehicle Parking Platform](path-to-your-project2-image.png)
 
 (Add more projects as needed)
 
@@ -28,12 +28,15 @@ I'm a passionate full-stack web developer with a focus on both front-end and bac
 ### Front-end
 - HTML/CSS
 - JavaScript (ES6+)
+- Next.js
 - React.js
 - Vue.js
 - Bootstrap
+- Tailwind
 - Responsive Design
 
 ### Back-end
+- Laravel
 - Node.js
 - Express.js
 - MongoDB
@@ -48,21 +51,20 @@ I'm a passionate full-stack web developer with a focus on both front-end and bac
 - Heroku
 - Netlify
 - Vercel
+- Aws
 
 ### Other
-- Webpack
 - Docker
-- Testing (e.g., Jest, Mocha)
 
 ## Education
 
-- Bachelor of Science in Computer Science, Your University, Graduation Year
+- Bachelor of Computer Application in 2016
+- Master of Computer Application in 2018
 
 ## Contact
-
+- Whatsapp: [+917248727854](https://wa.me/917248727854?text=Hello)
 - Email: [diveshc22@gmail.com](mailto:diveshc22@gmail.com)
-- LinkedIn: [Divesh Chakrayat](https://www.linkedin.com/in/divesh-chakrayat/)
-- Twitter: [@diveshtweets](https://twitter.com/diveshtweets)
+- LinkedIn: [Divesh Chakrayat](https://www.linkedin.com/in/divesh-chakrayat-2278b2138/)
 
 ## Let's Connect!
 
