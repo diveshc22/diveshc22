@@ -7,38 +7,60 @@ Welcome to my GitHub repository! I'm Divesh Chakrayat, and this is my portfolio 
 
 ## About Me
 
-I'm a passionate [your profession or field] with a keen interest in [mention specific areas of interest or expertise]. I love solving problems, learning new technologies, and building cool projects.
+I'm a passionate full-stack web developer with a focus on both front-end and back-end technologies. I love solving problems, learning new technologies, and building cool projects.
 
 ## Projects
 
-### Project 1: [Project Name 1](link-to-project-1)
-- Brief description of the project
-- Technologies used
-- Any key features or accomplishments
+### Project 1: [Portfolio Website](link-to-project-1)
+- My personal portfolio website built with HTML, CSS, and JavaScript.
+- ![Portfolio Website](path-to-your-project1-image.png)
 
-<!-- Add an animated GIF of your project -->
-![Project 1](path-to-your-animated-gif.gif)
-
-### Project 2: [Project Name 2](link-to-project-2)
-- Brief description of the project
-- Technologies used
-- Any key features or accomplishments
+### Project 2: [E-commerce Platform](link-to-project-2)
+- A full-stack e-commerce platform developed using MERN stack (MongoDB, Express.js, React.js, Node.js).
+- ![E-commerce Platform](path-to-your-project2-image.png)
 
 (Add more projects as needed)
 
 ## Skills
 
-- List some of your key skills or technologies you are proficient in.
+### Front-end
+- HTML/CSS
+- JavaScript (ES6+)
+- React.js
+- Vue.js
+- Bootstrap
+- Responsive Design
+
+### Back-end
+- Node.js
+- Express.js
+- MongoDB
+- SQL (e.g., MySQL, PostgreSQL)
+- RESTful APIs
+
+### Version Control
+- Git
+- GitHub
+
+### Deployment
+- Heroku
+- Netlify
+- Vercel
+
+### Other
+- Webpack
+- Docker
+- Testing (e.g., Jest, Mocha)
 
 ## Education
 
-- Mention your educational background.
+- Bachelor of Science in Computer Science, Your University, Graduation Year
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Divesh Chakrayat](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [diveshc22@gmail.com](mailto:diveshc22@gmail.com)
+- LinkedIn: [Divesh Chakrayat](https://www.linkedin.com/in/divesh-chakrayat/)
+- Twitter: [@diveshtweets](https://twitter.com/diveshtweets)
 
 ## Let's Connect!
 
