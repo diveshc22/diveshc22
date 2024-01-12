@@ -1,4 +1,4 @@
-# Divesh Chakrayat - Portfolio
+# Hello I am Divesh Chakrayat
 
 Welcome to my GitHub repository! I'm Divesh Chakrayat, and this is my portfolio showcasing my projects and contributions.
 
