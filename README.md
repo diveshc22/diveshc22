@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" width="120" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Coding Animation" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#06b6d4">Divesh Chakrayat</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Laravel & React Specialist</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #06b6d4, #3b82f6, #8b5cf6); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">Divesh Chakrayat</span>
+</h1>
+<h3 align="center">🚀 Full Stack Developer | Laravel & React Specialist</h3>
 
 <p align="center">
   <a href="https://wa.me/917248727854?text=Hello%20Divesh!">
@@ -14,49 +16,55 @@
   </a>
 </p>
 
----
-
-## ✨ About Me
-
-I'm a passionate **Full Stack Developer** with expertise in **Laravel, React, Node.js**, and more. I build scalable, high-performance web applications and SaaS platforms. I love solving real-world problems and learning new technologies.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="250" alt="Typing animation" />
-</p>
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 5px #06b6d4, 0 0 10px #3b82f6; }
+  to { text-shadow: 0 0 20px #8b5cf6, 0 0 40px #3b82f6; }
+}
+.project-card:hover { transform: scale(1.05); box-shadow: 0 0 20px #06b6d4; transition: all 0.3s ease; }
+.tech-icon:hover { transform: scale(1.2); filter: drop-shadow(0 0 6px #06b6d4); transition: all 0.3s ease; }
+</style>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img class="tech-icon" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img class="tech-icon" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img class="tech-icon" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img class="tech-icon" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img class="tech-icon" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img class="tech-icon" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img class="tech-icon" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img class="tech-icon" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 1️⃣ [The AIR App](https://theairapp.com)
-- A social networking platform for sports professionals and enthusiasts.
-- Built with **Laravel, Vue.js, MySQL**
-- ![The AIR App](https://via.placeholder.com/600x200.png?text=The+AIR+App+Screenshot)
+<div align="center">
 
-### 2️⃣ [VRR Parking](https://vrrparking.com/)
-- Smart visitor parking platform for residents and guests.
-- Built with **Laravel, React, SQL**
-- ![VRR Parking](https://via.placeholder.com/600x200.png?text=VRR+Parking+Screenshot)
+### The AIR App
+<a href="https://theairapp.com">
+  <img class="project-card" src="https://via.placeholder.com/600x200.png?text=The+AIR+App+Screenshot" alt="The AIR App Screenshot" />
+</a>
+<br>A social networking platform for sports enthusiasts. Built with Laravel, Vue.js, MySQL.
 
-### 3️⃣ Coming Soon: SaaS Project 🚀
-- A next-generation SaaS platform under development.
-- Built with **Laravel, React, Node.js**
-- ![SaaS Project](https://via.placeholder.com/600x200.png?text=SaaS+Project+Screenshot)
+### VRR Parking
+<a href="https://vrrparking.com/">
+  <img class="project-card" src="https://via.placeholder.com/600x200.png?text=VRR+Parking+Screenshot" alt="VRR Parking Screenshot" />
+</a>
+<br>Smart visitor parking platform. Built with Laravel, React, SQL.
+
+### Coming Soon: SaaS Project 🚀
+<a href="#">
+  <img class="project-card" src="https://via.placeholder.com/600x200.png?text=SaaS+Project+Screenshot" alt="SaaS Project Screenshot" />
+</a>
+<br>Next-gen SaaS under development. Built with Laravel, React, Node.js.
+
+</div>
 
 ---
 
@@ -72,17 +80,19 @@ I'm a passionate **Full Stack Developer** with expertise in **Laravel, React, No
 
 ## 📫 Contact Me
 
-- Whatsapp: [+917248727854](https://wa.me/917248727854?text=Hello%20Divesh!)
-- Email: [diveshc22@gmail.com](mailto:diveshc22@gmail.com)
-- LinkedIn: [Divesh Chakrayat](https://www.linkedin.com/in/divesh-chakrayat-2278b2138/)
-- Resume: [Download](https://cv.divesh.me)
+<p align="center">
+  <a href="https://wa.me/917248727854?text=Hello%20Divesh!">WhatsApp</a> • 
+  <a href="mailto:diveshc22@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/divesh-chakrayat-2278b2138/">LinkedIn</a> • 
+  <a href="https://cv.divesh.me">Resume</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Let's build" />
+</p>
 
 ---
 
 ## 🌟 Let’s Connect!
 
-I’m open to **collaboration, freelance work, or full-time opportunities**. Feel free to reach out via WhatsApp, email, or LinkedIn. Let’s build something amazing together!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Let's build" />
-</p>
+I’m open to **collaboration, freelance work, or full-time opportunities**. Let’s build something amazing together!
