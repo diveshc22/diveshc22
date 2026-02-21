@@ -86,7 +86,6 @@ Currently building a scalable platform for document management, compliance workf
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diveshc22&show_icons=true&count_private=true&include_all_commits=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diveshc22"/>
 </p>
 
