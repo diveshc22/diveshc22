@@ -9,7 +9,7 @@ Designing and building scalable web applications, SaaS platforms, and automation
   <a href="https://wa.me/917248727854"><img src="https://img.shields.io/badge/WhatsApp-Professional%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="mailto:diveshc22@gmail.com"><img src="https://img.shields.io/badge/Email-Business%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/divesh-chakrayat-2278b2138/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/StackOverflow-Knowledge%20Sharing-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="[https://stackoverflow.com/users/youruserid](https://stackoverflow.com/users/17785719/divesh-chakrayat)"><img src="https://img.shields.io/badge/StackOverflow-Knowledge%20Sharing-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 ---
