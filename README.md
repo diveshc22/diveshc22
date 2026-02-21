@@ -1,127 +1,113 @@
-<h1 align="center">Hi 👋, I'm Divesh Chakrayat</h1>
-<h3 align="center">Full Stack Developer • Laravel • React • SaaS Architect</h3>
+<h1 align="center">Divesh Chakrayat</h1>
+<h3 align="center">Full Stack Developer • SaaS Architect • Laravel • React • Cloud</h3>
 
 <p align="center">
-  Building scalable SaaS products, automation systems, and high-performance web platforms.
+Designing and building scalable web applications, SaaS platforms, and automation systems that drive real business growth.
+</p>
+
+<p align="center">
+  <a href="https://wa.me/917248727854"><img src="https://img.shields.io/badge/WhatsApp-Professional%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:diveshc22@gmail.com"><img src="https://img.shields.io/badge/Email-Business%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/divesh-chakrayat-2278b2138/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/StackOverflow-Knowledge%20Sharing-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-* 💼 5+ years experience in full stack development
-* 🔥 Specialized in SaaS and business platforms
-* ⚡ Strong backend architecture & API design
-* 🌍 Worked with startups and global clients
-* 🎯 Focused on performance, scalability, and clean code
+Full stack developer with over 5 years of experience delivering high-performance, scalable, and secure applications.
+Specialized in SaaS architecture, backend systems, and business-focused solutions.
+Experienced in working with startups, product teams, and international clients to build reliable technology platforms.
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://wa.me/917248727854"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:diveshc22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/divesh-chakrayat-2278b2138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/youruserid"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://cv.divesh.me"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
-</p>
+I focus on clean architecture, performance optimization, and long-term maintainability.
 
 ---
 
-## ⚙️ Tech Stack
+## Core Expertise
 
-### 🧠 Backend
+• SaaS product development and architecture
+• Backend system design and API development
+• Cloud deployment and scalable infrastructure
+• Business automation and workflow platforms
+• Payment systems and third-party integrations
+• Performance optimization and system reliability
 
-Laravel • PHP • REST APIs • Microservices
+---
 
-### 🎨 Frontend
+## Technology Stack
+
+### Backend
+
+Laravel • PHP • Node.js • Golang • Python
+
+### Frontend
 
 React • JavaScript • Tailwind • Bootstrap
 
-### 🗄️ Database
+### Databases
 
-MySQL • MongoDB
+MySQL • MongoDB • PostgreSQL
 
-### ☁️ Cloud & DevOps
+### Cloud and DevOps
 
-AWS • Docker • Git • CI/CD
+AWS • Docker • CI/CD • Linux
 
-### 🔌 Integrations
+### Integrations
 
-Stripe • Razorpay • Payment APIs • Third-party systems
+Stripe • Razorpay • Payment APIs • Webhooks
+
+### AI and Emerging Technologies
+
+Python for automation and data processing
+REST and API-based AI integrations
+LLM workflows and intelligent automation
 
 ---
 
-## 🏆 Featured Projects
+## Selected Work
 
-### 🏟️ The AIR App
+### The AIR App
 
 https://theairapp.com
-Sports community social networking platform.
-**Tech:** Laravel, Vue, MySQL
+A social networking platform designed for sports communities and engagement.
 
----
-
-### 🅿️ VRR Parking
+### VRR Parking
 
 https://vrrparking.com
-Smart visitor & parking management platform.
-**Tech:** Laravel, React
+A smart visitor and parking management system used in residential and commercial environments.
+
+### Financial SaaS Platform
+
+Currently building a scalable platform for document management, compliance workflows, and automation.
 
 ---
 
-### 🚀 SaaS Platform (In Progress)
-
-Next-gen financial document automation system.
-**Tech:** Laravel, React, Node.js
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diveshc22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diveshc22&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diveshc22&show_icons=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diveshc22"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshc22&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshc22"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph (Animated)
+## Services
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshc22&theme=tokyo-night"/>
-</p>
-
----
-
-## 💼 Services
-
-✔ SaaS Development
-✔ Custom Web Applications
-✔ API Development
-✔ Payment Integrations
-✔ Cloud Deployment
-✔ Business Automation
-✔ Performance Optimization
+• End-to-end SaaS development
+• Custom web application development
+• API and system integrations
+• Cloud deployment and optimization
+• Payment gateway implementation
+• Scalable backend architecture
 
 ---
 
-## 🧩 Fun Facts
+## Let’s Build Something Great
 
-* ⚡ I love building scalable backend systems
-* 📈 Passionate about productivity & automation
-* 🚀 Always learning new technologies
-* 💡 Interested in startups & business
-
----
-
-## 🤝 Open For
-
-Freelance • Contract • Full-time • Startup collaborations
-
-Let’s build something impactful together 🚀
+I am available for consulting, freelance projects, and long-term collaborations.
+If you are planning to build a product, scale your platform, or improve system performance, feel free to connect.
