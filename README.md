@@ -84,7 +84,7 @@ Building a next-generation SaaS for financial document and workflow automation.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=diveshc22&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diveshc22&show_icons=true" />
 </p>
 
 ---
