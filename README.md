@@ -16,7 +16,7 @@ Designing and building scalable web applications, SaaS platforms, and automation
 
 ## Professional Summary
 
-Full stack developer with over 5 years of experience delivering high-performance, scalable, and secure applications.
+Full stack developer with over 6 years of experience delivering high-performance, scalable, and secure applications.
 Specialized in SaaS architecture, backend systems, and business-focused solutions.
 Experienced in working with startups, product teams, and international clients to build reliable technology platforms.
 
