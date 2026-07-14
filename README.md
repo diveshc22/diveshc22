@@ -4,7 +4,10 @@
 
 Designing and building scalable web applications, SaaS platforms, and automation systems that drive real business growth.
 
-[WhatsApp](https://wa.me/917248727854) • [Email](mailto:diveshc22@gmail.com) • [LinkedIn](https://www.linkedin.com/in/diveshc22) • [StackOverflow](https://stackoverflow.com/users/17785719/divesh-chakrayat)
+<a href="https://wa.me/917248727854" target="_blank" rel="noopener noreferrer">WhatsApp</a> •
+<a href="mailto:diveshc22@gmail.com" target="_blank">Email</a> •
+<a href="https://www.linkedin.com/in/diveshc22" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+<a href="https://stackoverflow.com/users/17785719/divesh-chakrayat" target="_blank" rel="noopener noreferrer">StackOverflow</a>
 
 ---
 
