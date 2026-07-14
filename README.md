@@ -1,23 +1,17 @@
-<h1 align="center">Divesh Chakrayat</h1>
-<h3 align="center">Full Stack Developer • SaaS Architect • Laravel • React • Cloud</h3>
+# Divesh Chakrayat
 
-<p align="center">
+### Full Stack Developer • SaaS Architect • Laravel • Angular • Next.js • Cloud
+
 Designing and building scalable web applications, SaaS platforms, and automation systems that drive real business growth.
-</p>
 
-<p align="center">
-  <a href="https://wa.me/917248727854"><img src="https://img.shields.io/badge/WhatsApp-Professional%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:diveshc22@gmail.com"><img src="https://img.shields.io/badge/Email-Business%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/divesh-chakrayat-2278b2138/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/17785719/divesh-chakrayat"><img src="https://img.shields.io/badge/StackOverflow-Knowledge%20Sharing-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-</p>
+[WhatsApp](https://wa.me/917248727854) • [Email](mailto:diveshc22@gmail.com) • [LinkedIn](https://www.linkedin.com/in/diveshc22) • [StackOverflow](https://stackoverflow.com/users/17785719/divesh-chakrayat)
 
 ---
 
 ## Professional Summary
 
-Full stack developer with over 6 years of experience delivering high-performance, scalable, and secure applications.
-Specialized in SaaS architecture, backend systems, and business-focused solutions.
+Full stack developer with over 7 years of experience delivering high-performance, scalable, and secure applications.
+Specialized in SaaS architecture, backend systems, and payment integration.
 Experienced in working with startups, product teams, and international clients to build reliable technology platforms.
 
 I focus on clean architecture, performance optimization, and long-term maintainability.
@@ -26,87 +20,70 @@ I focus on clean architecture, performance optimization, and long-term maintaina
 
 ## Core Expertise
 
-• SaaS product development and architecture
-• Backend system design and API development
-• Cloud deployment and scalable infrastructure
-• Business automation and workflow platforms
-• Payment systems and third-party integrations
-• Performance optimization and system reliability
+- SaaS product development and architecture
+- Backend system design and API development
+- Cloud deployment and scalable infrastructure
+- Business automation and workflow platforms
+- Payment systems and third-party integrations
+- System integration across multiple platforms
+- Performance optimization and system reliability
 
 ---
 
 ## Technology Stack
 
 ### Backend
-
 Laravel • PHP • Node.js • Golang • Python
 
 ### Frontend
-
-React • JavaScript • Tailwind • Bootstrap
+Angular • Next.js • React • JavaScript • Tailwind • Bootstrap
 
 ### Databases
-
 MySQL • MongoDB • PostgreSQL
 
 ### Cloud and DevOps
-
 AWS • Docker • CI/CD • Linux
 
 ### Integrations
-
 Stripe • Razorpay • Payment APIs • Webhooks
-
-### AI and Emerging Technologies
-
-Python for automation and data processing
-REST and API-based AI integrations
-LLM workflows and intelligent automation
 
 ---
 
 ## Selected Work
 
-### The AIR App
-
-https://theairapp.com
-A social networking platform designed for sports communities and engagement.
+### Towgenix
+Automated towing and dispatch management platform. Solves a real operational gap by integrating directly with parking management data to auto-detect permit violations and generate impound jobs — eliminating manual cross-checking between disconnected systems.
 
 ### VRR Parking
+[vrrparking.com](https://vrrparking.com) — SaaS visitor & parking management platform serving 500+ properties with 1M+ annual visitor registrations, including automated revenue-share billing via Stripe.
 
-https://vrrparking.com
-A smart visitor and parking management system used in residential and commercial environments.
+### The Air App
+LinkedIn-style social networking platform for athletes, coaches, and universities. Built the complete backend, database, web app, and admin panel. Successfully onboarded real users; development concluded when the client's funding did not continue.
 
-### Financial SaaS Platform
-
-Currently building a scalable platform for document management, compliance workflows, and automation.
+### Financial SaaS Platform *(In Development)*
+Personal project — building a scalable platform for document management, compliance workflows, and automation.
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diveshc22"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diveshc22"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=diveshc22)
+![](https://github-readme-activity-graph.vercel.app/graph?username=diveshc22)
 
 ---
 
 ## Services
 
-• End-to-end SaaS development
-• Custom web application development
-• API and system integrations
-• Cloud deployment and optimization
-• Payment gateway implementation
-• Scalable backend architecture
+- End-to-end SaaS development
+- Custom web application development
+- API and system integrations
+- Cloud deployment and optimization
+- Payment gateway implementation
+- Scalable backend architecture
 
 ---
 
-## Let’s Build Something Great
+## Let's Build Something Great
 
-I am available for consulting, freelance projects, and long-term collaborations.
-If you are planning to build a product, scale your platform, or improve system performance, feel free to connect.
+I am available for freelance projects, contract work, and long-term collaborations — remote, full-time.
+If you're planning to build a product, scale your platform, or improve system performance, feel free to connect.
